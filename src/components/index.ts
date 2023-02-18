@@ -1,0 +1,1 @@
+export {default as GroupedCollapsibleTable} from './GroupedCollapsibleTable'
